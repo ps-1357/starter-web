@@ -16,4 +16,6 @@ This is a simple orject deployment can be on any server or local file system.
 
 ## How to Contribute
 
+###Copyright
 
+2022 Git.Training
