@@ -16,6 +16,8 @@ This is a simple orject deployment can be on any server or local file system.
 
 ## How to Contribute
 
+Please fork this repository and then issure Pull request for review. 
+
 ###Copyright
 
 2022 Git.Training
